@@ -4,9 +4,9 @@
 
 ## Overview
 
-**Dataset includes 7,043 customers, with a 26.54% churn rate.
+** Dataset includes 7,043 customers, with a 26.54% churn rate.
 
-**Total yearly charges: $16.06M, with 3,632 Admin Tickets and 2,955 Tech Tickets.
+** Total yearly charges: $16.06M, with 3,632 Admin Tickets and 2,955 Tech Tickets.
 
 ## Internet Service
 
